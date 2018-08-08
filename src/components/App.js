@@ -10,7 +10,7 @@ const App = () => {
             <Wallet />
             <hr /> 
             <Loot />
-            <div>Powered by <a  target='_blank' href='http://www.coindesk.com/price'>Coindesk</a></div>
+            <div>Powered by <a  target='_blank' href='http://www.coindesk.com/price'>Coindesk :)</a></div>
         </div>
     )
 }
